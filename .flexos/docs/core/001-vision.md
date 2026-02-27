@@ -1,60 +1,50 @@
 ---
-id: "001-vision"
-title: "Vision & Strategy"
+id: 001-vision
+title: Product Vision & Strategy
+description: The core vision, mission, and strategic goals for the My Room project.
 type: doc
 subtype: core
 status: draft
 sequence: 1
-tags: [vision, strategy, personas]
+tags:
+  - vision
+  - strategy
+  - product
+createdAt: "2023-10-27T10:00:00Z"
+updatedAt: "2023-10-27T10:00:00Z"
 ---
 
-# Vision & Strategy
+# Product Vision: My Room
 
-> The north star document. Defines what this product is, who it's for, and why it matters. Everything else flows from here.
+## 1. Vision Statement
 
-## Vision Statement
+To empower individuals, especially those in urban environments with limited space, to design their ideal bedroom with confidence and creativity. My Room will be the go-to intuitive tool for visualizing, planning, and optimizing personal spaces, transforming the challenge of a difficult room layout into an opportunity for personal expression.
 
-A clear, aspirational statement about what this product will become. Not a feature list — a future state. What does the world look like when this product succeeds?
+## 2. Problem & Opportunity
 
-## Mission
+### The Core Problem
 
-The practical version of the vision. What does this product DO, day to day, for its users? One sentence that anyone on the team can repeat.
+The initial spark for this project came from a simple, yet profound, user need: "I want to design my bedroom, dimensions 2.65m x 6m." This highlights a common struggle. For millions of young adults and renters, the dream of a perfect personal space is often constrained by the reality of non-ideal room dimensions. Long, narrow rooms are notoriously difficult to furnish. It's challenging to visualize how standard furniture will fit, to ensure there's enough clearance for movement, and to avoid a layout that feels cramped or tunnel-like. The traditional approach involves manual measurements, guesswork, and costly trial-and-error, leading to frustration, wasted money, and spaces that never feel quite right.
 
-## Problem
+### The Market Opportunity
 
-What pain point does this solve? Be specific — not "people need better tools" but "freelance photographers lose 3 hours per week chasing clients for gallery approvals." Include evidence if available.
+Generic interior design software is often too complex, designed for professionals, or too broad, lacking the specialized tools needed for optimizing small or awkward spaces. My Room carves a niche by focusing intently on the bedroom—the most personal space in a home—and specifically addressing the pain points of challenging layouts. The target demographic of urban renters and young adults is digitally native, actively seeks tools to simplify their lives, and values personalization. By providing a solution that is accessible, specialized, and culturally relevant (e.g., with Vietnamese-inspired styles), we can capture a loyal user base that feels seen and understood.
 
-## Solution
+## 3. Our Solution
 
-How does this product solve the problem? The elevator pitch. What's the core mechanism that makes things better?
+My Room is a specialized 2D/3D design tool that directly addresses the user's struggle. Our solution is built on three pillars:
 
-## Target Users
+1.  **Precision and Visualization**: Users begin by inputting their exact room dimensions into the **Interactive Room Canvas**. They can instantly switch between a 2D floor plan for layout accuracy and a 3D walkthrough for a true-to-life feel. This removes the guesswork and provides immediate visual feedback.
 
-### Primary Persona
+2.  **Intelligent Optimization**: Our standout feature, the **AI-Powered Layout Assistant**, is specifically trained on principles of interior design for narrow spaces. It won't just place furniture; it will suggest zoning strategies (creating distinct sleep, work, and dressing areas), recommend multi-functional pieces from our **Customizable Furniture Library**, and ensure ergonomic flow, turning a 2.65m x 6m corridor into a functional, beautiful room.
 
-Describe the main user in detail — their role, frustrations, goals, technical comfort level, and what "success" looks like for them. Give them a name.
+3.  **Creative Empowerment**: We provide a curated and **Customizable Furniture & Decor Library** that allows users to not only drag-and-drop items but also resize them to fit perfectly. By offering relevant style filters and a simple interface, we lower the barrier to creativity, making interior design feel like a fun, engaging game rather than a chore.
 
-### Secondary Personas
+## 4. Strategic Goals & Success Metrics
 
-Other user types who benefit from the product. Admins, managers, collaborators, viewers — whoever else interacts with the system.
+Our strategy is to first dominate the niche of optimizing challenging bedroom layouts and then expand. Our success will be measured by:
 
-## Unique Value Proposition
-
-What makes this different from alternatives? Not just "better UI" — what's the structural advantage? Why will users switch from what they're doing now?
-
-## Success Metrics
-
-How do we know this is working? Define 3-5 measurable outcomes:
-
-- **Activation:** (what does a successful first session look like?)
-- **Engagement:** (what does regular usage look like?)
-- **Retention:** (what keeps users coming back?)
-- **Growth:** (how does the product spread?)
-
-## Non-Goals
-
-Equally important: what is this product NOT? What features, markets, or approaches are explicitly out of scope? This prevents scope creep and keeps the team focused.
-
-## Competitive Landscape
-
-What alternatives exist? Direct competitors, indirect substitutes, and the "do nothing" option. Where does this product fit in the market?
+*   **User Engagement**: High rate of project creation and a significant number of saved design iterations per user. We will track the average session length on the **Room Designer Canvas** page.
+*   **Problem-Solution Fit**: High utilization of the **AI-Powered Layout Assistant** feature, indicating that users find value in our core differentiator. We will also monitor the prevalence of non-standard room dimensions (like 2.65m x 6m) entered by users.
+*   **User Growth & Satisfaction**: A steady increase in new sign-ups via the **Authentication Page** and positive reviews on app stores and social media. We aim for a high completion rate of the **Onboarding Flow**.
+*   **Community Building**: Active participation in the **Inspiration Feed**, with users sharing their successful narrow-room designs, validating the tool's effectiveness for others.
