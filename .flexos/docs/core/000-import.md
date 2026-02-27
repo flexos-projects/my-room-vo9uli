@@ -1,41 +1,36 @@
----
-id: "000-import"
-title: "Project Origin"
-type: doc
-subtype: core
-status: draft
-sequence: 0
-tags: [origin, provenance]
----
+# Project Overview: My Room
 
-# Project Origin
+**Tagline:** Design your dream bedroom, effortlessly visualize, and optimize every inch.
 
-> Every FlexOS project has an origin story. This document records how the project was created and what source material informed it.
+My Room is an innovative application designed to empower individuals, particularly young adults and renters in urban areas, to effectively visualize and plan their bedroom layouts. It specifically addresses the common struggle of designing for challenging dimensions, such as narrow and long spaces (e.g., 2.65m x 6m), without costly trial-and-error.
 
-## Source
+## Problem Addressed
+Many users find it difficult to imagine how furniture will fit, ensure functionality, and create an aesthetic that feels right within specific or awkward room dimensions. Traditional methods often lead to frustration and suboptimal layouts.
 
-Describe how this project came into existence. Was it imagined from a description? Imported from an existing GitHub repository? Scraped from a live website? Created from a template?
+## Solution Offered
+My Room provides an intuitive 2D/3D design tool that allows precise input of room dimensions, drag-and-drop functionality for a curated library of customizable furniture, and AI-powered layout suggestions. This enables users to confidently design, visualize, and budget for their perfect bedroom.
 
-- **Type:** imagination | github_import | website_scrape | blank | template
-- **Source:** (URL, description, or "from scratch")
-- **Date:** (when the project was created)
+## Unique Value Proposition
+What sets My Room apart is its specialized focus on optimizing challenging room dimensions, offering AI-driven layout suggestions tailored for narrow and long spaces. It features a highly customizable furniture library, including Vietnamese-inspired styles, a budget tracker in VND, and social sharing capabilities for community feedback, making it a more personal and practical solution than generic design tools.
 
-## Original Input
+## Key Features
+*   **Interactive Room Canvas (2D/3D):** Accurate dimension input and visualization.
+*   **Customizable Furniture & Decor Library:** Extensive, resizable furniture options.
+*   **AI-Powered Layout Assistant:** Intelligent suggestions for challenging room shapes.
+*   **Project & Iteration Management:** Save and compare multiple design versions.
 
-Capture the raw input that started this project — the brain dump, the GitHub URL, the website, or the template name. This is the seed everything else grew from.
+## Core Pages
+*   **Room Designer Canvas:** The main design interface.
+*   **My Projects Dashboard:** Manage all saved designs.
+*   **Onboarding Flow:** Guided introduction for new users.
 
-## What Was Learned
+## Primary User Flows
+*   **User Onboarding & First Room Creation:** Guiding new users to their first design.
+*   **Designing & Optimizing a Bedroom:** The central process of creating and refining layouts.
 
-If this project was imported or scraped, summarize the key insights extracted from the source material. What was the original project trying to be? What worked? What was missing?
+## Data Collections
+*   **Rooms:** Stores all user-created room designs and their layout data.
+*   **Users:** Manages user authentication and profile information.
+*   **Furniture Catalog:** The global library of available furniture items.
 
-## Decisions Made
-
-Record any early decisions about scope, direction, or technology that were made during project creation. Why was this approach chosen over alternatives?
-
-## Provenance Chain
-
-If this project builds on previous work, link to the sources:
-
-- **Parent project:** (if forked or imported from another FlexOS project)
-- **External sources:** (GitHub repos, websites, documents that informed this)
-- **AI models used:** (which models generated the initial content)
+This document serves as a high-level overview, with detailed specifications for each component available in their respective files.
